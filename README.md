@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tombryson
-- 👀 I’m interested in C & C++ for beginners.
-- 🌱 I’m currently learning C, C++ & Python. SQL/R/PHP also are peripheral interests.
+- 👀 I’m interested in JavaScript for beginners.
+- 🌱 I’m currently learning JavaScript & Python. SQL/R are also interests.
 - 💞️ I’m looking to collaborate on basic coding programs for beginners.
 - 📫 My email is at thomas.bryson@outlook.com
 
