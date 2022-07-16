@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tombryson
-- 👀 I’m interested in JavaScript for beginners.
-- 🌱 I’m currently learning JavaScript & Python. SQL/R are also interests.
-- 💞️ I’m looking to collaborate on basic coding programs for beginners.
+- 🌱 Currently learning JavaScript, Python, Ruby/Rails & SQL.
+- 💞️ I’m looking to collaborate on projects for aspiring software engineers
 - 📫 My email is at thomas.bryson@outlook.com
 
 <!---
