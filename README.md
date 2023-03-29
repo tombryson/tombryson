@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tombryson
-- 🌱 Currently learning JavaScript, Python, Ruby/Rails & SQL.
+- 🌱 Currently learning C#, Typescript, Python, Bash & SQL.
 - 💞️ I’m looking to collaborate on projects for aspiring software engineers
 - 📫 My email is at thomas.bryson@outlook.com
 
